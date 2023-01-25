@@ -1,0 +1,35 @@
+
+img {
+    width: 300px;
+}
+body {
+    color: #343434
+}
+header {
+    background: lightblue;
+}
+.projects {
+    background: #f7fff7;
+}
+.work {
+    background: lightblue;
+}
+.education {
+    background: #f7fff7;
+}
+footer {
+    background: lightblue;
+}
+footer a {
+    color: #f7fff7;
+    padding: 8px;
+    border-radius: 4px;
+}
+a {
+    color: lightblue;
+    background-color: black;
+    padding: 8px;
+}
+a:hover {
+    text-decoration: none;
+}
